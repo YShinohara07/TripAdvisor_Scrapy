@@ -1,1 +1,5 @@
-Notebook Drafts
+NotebookDrafts
+TripAdvisiorHotelList.csv
+__pycache__
+.DS_Store
+.ipynb-checkpoints
